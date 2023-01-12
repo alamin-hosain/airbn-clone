@@ -7,7 +7,6 @@ import MediumCard from "../components/MediumCard";
 import SmallCard from "../components/SmallCard";
 
 const Home = ({ exploreData, cardData }) => {
-  console.log(cardData);
   return (
     <div>
       <Head>
@@ -37,7 +36,7 @@ const Home = ({ exploreData, cardData }) => {
         </section>
 
         <LargeCard
-          img="https://links.papareact.com/4cj"
+          img="https://a0.muscache.com/im/pictures/2da67c1c-0c61-4629-8798-1d4de1ac9291.jpg?im_w=1440"
           title="The Greatest Outdoor"
           description="Wishlist curated by Airbnb"
           btnText="Get Inspired"
