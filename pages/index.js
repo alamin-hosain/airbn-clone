@@ -10,7 +10,7 @@ const Home = ({ exploreData, cardData }) => {
   return (
     <div>
       <Head>
-        <title>Alamin AirBNB</title>
+        <title>Alamin AirBNB Clone</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
